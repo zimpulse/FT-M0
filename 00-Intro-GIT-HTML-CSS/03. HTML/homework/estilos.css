@@ -20,4 +20,20 @@ body
 }
 img{
 		margin-left: 50px;
+		border-radius: 20px;
+}
+#divClass{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+a{
+	padding-top: 50px;
+}
+#divClassUno{
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+	
 }
